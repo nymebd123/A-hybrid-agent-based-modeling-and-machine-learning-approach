@@ -16,3 +16,5 @@ To get started with the project:
 
 ## Getting Help
 For assistance with the project, feel free to reach out to nymebd@gmail.com.
+
+The publsihed artcile link: https://www.sciencedirect.com/science/article/abs/pii/S0378778824012180?via%3Dihub
